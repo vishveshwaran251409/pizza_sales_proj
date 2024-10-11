@@ -1,13 +1,14 @@
- Pizza Sales Analysis using SQL and Excel
+** Pizza Sales Analysis using SQL and Excel**
 This project showcases an in-depth analysis of pizza sales data using SQL for database querying and Excel for data visualization. The goal of this project is to analyze pizza sales trends, customer preferences, and business performance to provide actionable insights that can help optimize sales and marketing strategies for a pizza business.
 
-Project Overview:
+**Project Overview:**
 The dataset used for this project contains detailed records of pizza sales, including information such as transaction IDs, sale dates and times, customer demographics, pizza categories, and quantity sold. The data spans over a specific time period and represents the sales performance of various pizza items offered by the business.
 
-Key Objectives:
+**Key Objectives:**
 Data Cleaning and Preprocessing: The initial step involved cleaning the raw sales data to ensure accuracy and consistency. This includes handling missing or inconsistent entries and formatting the data for further analysis.
 
-SQL Queries: Using SQL, I performed various queries to extract meaningful insights. Some of the key queries include:
+SQL Queries:**
+Using SQL, I performed various queries to extract meaningful insights. Some of the key queries include:
 
 Total sales revenue over time.
 Identifying the best-selling pizzas.
