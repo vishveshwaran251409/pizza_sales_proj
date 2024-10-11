@@ -7,7 +7,7 @@ The dataset used for this project contains detailed records of pizza sales, incl
 **Key Objectives:**
 Data Cleaning and Preprocessing: The initial step involved cleaning the raw sales data to ensure accuracy and consistency. This includes handling missing or inconsistent entries and formatting the data for further analysis.
 
-SQL Queries:**
+SQL Queries:
 Using SQL, I performed various queries to extract meaningful insights. Some of the key queries include:
 
 Total sales revenue over time.
